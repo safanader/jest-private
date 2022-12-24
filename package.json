@@ -1,0 +1,14 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "\"this is for my qa students \" ,",
+  "main": "index.js",
+  "scripts": {
+    "test": "test -- watch All"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
